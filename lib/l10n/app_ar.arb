@@ -1,0 +1,55 @@
+{
+    "place_order": "قم بتقديم الطلب..",
+    "product_name": "اسم المنتج",
+    "count": "العدد",
+    "notes": "ملاحظات",
+    "create_order":  "إنشاء طلب",
+    "enter_details": "يرجى إدخال التفاصيل",
+
+    "min_count": "الحد الأدنى {count}",
+    "max_characters": "الحد الأقصى للأحرف {count}",
+
+    "field_required": "حقل {field} مطلوب",
+    "field_max_characters_error": "يجب ألا يتجاوز حقل {field} {max} حرفًا",
+    "field_max_count_error": "يجب ألا يتجاوز {field} {max} عددًا",
+
+    "upload_product_image": "تحميل صورة المنتج",
+    "edit_product_image": "تحرير صورة المنتج",
+    "delete_product_image": "حذف صورة المنتج",
+    "no_image_selected": "لم يتم تحديد صورة",
+    "upload_from_gallery": "تحميل من معرض الصور",
+    "upload_from_camera": "تحميل من الكاميرا",
+
+    "order_details": "تفاصيل المنتج..",
+
+    "inProcess": "قيد المعالجة",
+    "received": "تم الاستلام",
+    "rejected": "مرفوض",
+    "inDistribution": "قيد التوزيع",
+    "completed": "مكتمل",
+
+    "my_orders": "طلباتي..",
+    "search_by_productName": "البحث ب اسم المنتج",
+    "order_state": "حالة الطلب",
+
+    "delete_order": "حذف الطلب",
+    "confirm_deletion": "تأكيد الحذف",
+    "order_deletion_confirm_message": "هل أنت متأكد من رغبتك في حذف الطلب {title}",
+
+    "order_complated": "تم اكتمال الطلب",
+    "order_complated_message": "تم اكتمال الطلب بنجاح.",
+    
+    "confirm_logout" : "تأكيد الخروج",
+    "confirm_logout_message": "هل أنت متأكد أنك تريد تسجيل الخروج؟",
+
+    "home_page": "الصفحة الرئيسية",
+    "add_order": "إضافة طلب",
+    "logout": "تسجيل الخروج",
+    
+    "cancel": "إلغاء",
+    "data_loading": "جاري تحميل البيانات..",
+    "no_data": "لا تتوفر بيانات.",
+    "error": "حدث خطأ ما",
+    "close": "أغلاق",
+    "ok": "موافق"
+}

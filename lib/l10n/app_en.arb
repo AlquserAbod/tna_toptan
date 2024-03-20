@@ -1,0 +1,76 @@
+{
+    "place_order": "Place an order..",
+    "product_name": "Product name",
+    "count": "Count",
+    "notes": "Notes",
+    "create_order":  "Create order",
+    "enter_details": "pleas enter with details",
+
+    "min_count": "min characters {count}",
+    "max_characters": "max characters {count}",
+
+    "@max_characters": {
+      "placeholders": { "count": {"type": "int"} }
+    },
+    "@min_count": {
+        "placeholders": { "count": {"type": "int"} }
+    },
+
+    "field_required": "{field} Field is required",
+    "@field_required": {
+        "placeholders": { "field": {"type": "String"} }
+    },
+    "field_max_characters_error": "{field} Field must not exceed {max} characters",
+    "@field_max_characters_error": {
+        "placeholders": { "field": {"type": "String"}, "max": {"type": "int"} }
+    },
+    "field_max_count_error": "{field} must not exceed {max} Number",
+    "@field_max_count_error": {
+        "placeholders": { "field": {"type": "String"}, "max": {"type": "int"} }
+    },
+    
+    "upload_product_image": "upload product image",
+    "edit_product_image": "edit product Photo",
+    "delete_product_image": "delete product Photo",
+    "no_image_selected": "No image selected",
+    "upload_from_gallery": "upload from galery",
+    "upload_from_camera": "upload from camera",
+    
+    "my_orders": "My Orders ..",
+    "search_by_productName": "Search by product name",
+    "order_state": "Order state",
+
+    "delete_order": "Delete Order",
+    "confirm_deletion": "Confirm deletion",
+    "order_deletion_confirm_message": "Are you sure you want delete {title} order",
+    "@order_deletion_confirm_message": {
+        "placeholders": { "title": {"type": "String"} }
+    },
+
+    "order_details": "Order Details",
+
+    "inProcess": "in Process",
+    "received": "is Received",
+    "rejected": "rejected",
+    "inDistribution": "in Distribution",
+    "completed": "completed",
+
+    "order_complated": "Order Completed",
+    "order_complated_message": "The order was completed successfully.",
+    
+    "confirm_logout" : "Confirm logout",
+    "confirm_logout_message": "Are you sure you want to log out",
+
+    "home_page": "Home Page",
+    "add_order": "Add Order",
+    "logout": "Logout",
+
+    "cancel": "cancel",
+    "data_loading": "data loding ..",
+    "no_data": "No data available.",
+    "error": "Something went wrong",
+    "close": "close",
+    "ok": "ok"
+
+    
+}

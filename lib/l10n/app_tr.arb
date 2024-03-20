@@ -1,0 +1,55 @@
+{
+    "place_order": "Sipariş ver..",
+    "product_name": "Ürün adı",
+    "count": "Adet",
+    "notes": "Notlar",
+    "create_order":  "Sipariş oluştur",
+    "enter_details": "Detayları girin",
+
+    "min_count": "Minimum {count}",
+    "max_characters": "Maksimum karakter {count}",
+
+    "field_required": "{field} alanı gereklidir",
+    "field_max_characters_error": "{field} alanı {max} karakteri geçmemelidir",
+    "field_max_count_error": "{field} alanı {max} adedi geçmemelidir",
+
+    "upload_product_image": "Ürün resmi yükle",
+    "edit_product_image": "Ürün resmini düzenle",
+    "delete_product_image": "Ürün resmini sil",
+    "no_image_selected": "Resim seçilmedi",
+    "upload_from_gallery": "Galeriden yükle",
+    "upload_from_camera": "Kameradan yükle",
+
+    "order_details": "Sipariş detayları..",
+
+    "inProcess": "İşlemde",
+    "received": "Alındı",
+    "rejected": "Reddedildi",
+    "inDistribution": "Dağıtımda",
+    "completed": "Tamamlandı",
+
+    "my_orders": "Siparişlerim..",
+    "search_by_productName": "Ürün adıyla ara",
+    "order_state": "Sipariş durumu",
+
+    "delete_order": "Siparişi sil",
+    "confirm_deletion": "Silme işlemini onayla",
+    "order_deletion_confirm_message": "{title} adlı siparişi silmek istediğinizden emin misiniz?",
+
+    "order_complated": "Sipariş tamamlandı",
+    "order_complated_message": "Sipariş başarıyla tamamlandı.",
+    
+    "confirm_logout" : "Çıkışı Onayla",
+    "confirm_logout_message": "Hesaptan Çıkış yapmak istediğinizden emin misiniz?",
+
+    "home_page": "Ana Sayfa",
+    "add_order": "Sipariş Ekle",
+    "logout": "Çıkış Yap",
+    
+    "cancel": "İptal",
+    "data_loading": "Veri yükleniyor..",
+    "no_data": "Veri bulunamadı.",
+    "error": "Bir hata oluştu",
+    "close": "Kapat",
+    "ok": "Tamam"
+}

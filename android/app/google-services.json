@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "355876109241",
+    "project_id": "tna-toptan-11fe3",
+    "storage_bucket": "tna-toptan-11fe3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355876109241:android:02e3e07387e214dfcc1468",
+        "android_client_info": {
+          "package_name": "com.example.tna_toptan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJScin-kvAH9AQC9Z1Drx8QrGeVDP0fQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
